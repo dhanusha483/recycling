@@ -70,17 +70,6 @@ Make sure you have [Node.js](https://nodejs.org) and [Git](https://git-scm.com) 
      </td>
    </tr>
    <tr>
-    <td align="center">
-      <a href="https://eggsy.xyz">🔗</a> -
-      <a href="https://linkedin.com/in/abdulbaki-dursun"></a>
-     </td>
-     <td align="center">
-      <a href="https://merloss.netlify.app">🔗</a> -
-      <a href="https://linkedin.com/in/kerimkara0"></a>
-     </td>
-     <td align="center">
-      <a href="https://semihozdas.com.tr/">🔗</a> -
-      <a href="https://linkedin.com/in/semihozdas"></a>
-     </td>
+
    </tr>
 </table>
