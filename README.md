@@ -9,7 +9,6 @@ We are trying to raise awareness to the importance of recycling. This is a [Goog
 [![Watch the Trailer](/public/banner.png)](https://youtu.be/tBjP00O3QrU)
 
 ## Features
-
 - Easy to use and simple UI.
 - Efficient data with Firestore.
 - User authentication with Firebase.
