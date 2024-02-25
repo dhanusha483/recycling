@@ -1,8 +1,9 @@
 <h1 align="center">
   ♻️ Recycling Platform
 </h1>
+Our goal is to bring sustainability by creating awareness to the importance of recycling i.e how materials can be divided by their categories like metals glass,plastic,etc.we  Recycling helps to reduce the amount of waste that goes into landfills, conserves natural resources, and saves energy. It also reduces greenhouse gas emissions and helps to mitigate climate change.we also collect the materials to be recycled by organising nearby recycling centers.There are many materials that can be recycled, including paper, cardboard, plastic, glass, metal, and electronics. However, it's important to check with your local recycling program to find out what materials they accept.Separate recyclable materials from non-recyclable materials.
 
-We are trying to raise awareness to the importance of recycling. This is a [Google Solution Challenge 2024](https://developers.google.com/community/gdsc-solution-challenge) project that uses Firebase (authentication, analytics, firestore and storage) as well as latest technologies such as React.js, Next.js, Tailwind CSS and Framer Motion to ensure best user experience. [Click here for the real-life app](https://recycling.is-important.net).
+This is a [Google Solution Challenge 2024](https://developers.google.com/community/gdsc-solution-challenge) project that uses Firebase (authentication, analytics, firestore and storage) as well as latest technologies such as React.js, Next.js, Tailwind CSS and Framer Motion to ensure best user experience. [Click here for the real-life app](https://recycling.is-important.net).
 
 
 
@@ -41,5 +42,4 @@ Make sure you have [Node.js](https://nodejs.org) and [Git](https://git-scm.com) 
 
    
 
-   </tr>
-</table>
+
