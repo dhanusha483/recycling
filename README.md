@@ -29,7 +29,7 @@ We are trying to raise awareness to the importance of recycling. This is a [Goog
 Make sure you have [Node.js](https://nodejs.org) and [Git](https://git-scm.com) installed on your system. Node.js comes with a package manager called `npm` but I suggest you use [`pnpm`](https://pnpm.io/) instead since it's faster and more efficient.
 
 1. Clone the repository:
-   - `git clone https://github.com/eggsy/recycling-platform`
+   - `git clone [https://github.com/eggsy/recycling](https://github.com/dhanusha483/recycling.git`
 2. Install dependencies:
    - `pnpm install` or `npm install`
 3. Create a Firestore account and get required fileds in `.env.example` file.
